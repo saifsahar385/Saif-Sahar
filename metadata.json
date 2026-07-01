@@ -1,0 +1,6 @@
+{
+  "name": "Saif Goods Transport & Yahaya Custom Clearing Agency",
+  "description": "پاکستان بھر میں محفوظ سامان کی ترسیل، درآمد و برآمد کسٹم کلیئرنس، اور قابل اعتماد لاجسٹکس خدمات۔",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
